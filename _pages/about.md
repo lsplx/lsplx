@@ -21,7 +21,7 @@ I am a sixth-year direct-track Ph.D. student at the Institute of Software, Chine
 
 To date, I have published 8 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). Currently, my research interests focus on LLM security (including the security of LLM agents and LLM intellectual property protection), AI model testing, and intelligent requirements engineering. I am always open to discussions and collaborations—please feel free to reach out!
   
-
+<span id="publications"></span>
 # 📝 Publications
 
 
@@ -31,6 +31,7 @@ To date, I have published 8 papers in top conferences and journals in both softw
 
 - Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
 [[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+
 
 
 
