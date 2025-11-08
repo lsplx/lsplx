@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Zhiyuan Chang"
-description              : "happy life"
+description              : "Love yourself, glow relentlessly."
 repository               : "lsplx/lsplx.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
