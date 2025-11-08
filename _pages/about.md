@@ -25,12 +25,11 @@ To date, I have published 8 papers in top conferences and journals in both softw
 # 📝 Publications
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+- `Zhiyuan Chang`, Mingyang Li, Xiaojun Jia, Junjie Wang, Yuekai Huang, Qing Wang, Ziyou Jiang, Yang Liu. One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems. In The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025). (<span style="color:red; font-weight:bold;">CCF-B</span>)
+[[PDF]]([https://dx.doi.org/10.3390/ma15207362](https://aclanthology.org/2025.findings-emnlp.1023/)) 
 
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+
 
 
 
