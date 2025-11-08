@@ -29,7 +29,14 @@ To date, I have published 8 papers in top conferences and journals in both softw
 [[PDF]](https://aclanthology.org/2025.findings-emnlp.1023/)
 
 - `Zhiyuan Chang`, Mingyang Li, Yi Liu, Junjie Wang, Qing Wang, Yang Liu. **Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues**. In Annual Conference of the Association for Computational Linguistics (ACL), 2024. (<span style="color:red; font-weight:bold;">CCF-A</span>)
-[[PDF]](https://aclanthology.org/2025.findings-emnlp.1023/)
+[[PDF]](https://aclanthology.org/2024.findings-acl.304/)
+
+- `Zhiyuan Chang`, Mingyang Li, Junjie Wang, Cheng Li, Qing Wang. **VEglue: Testing Visual Entailment Systems via Object-Aligned Joint Erasing**. In ACM Transactions on Software Engineering and Methodology (TOSEM). (<span style="color:red; font-weight:bold;">CCF-A</span>)
+[[PDF]]((https://dl.acm.org/doi/10.1145/3731244))
+
+- `Zhiyuan Chang`, Mingyang Li, Junjie Wang, Yi Liu, Qing Wang, Yang Liu. **Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**. In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024. (<span style="color:red; font-weight:bold;">CCF-B</span>)
+[[PDF]]((https://aclanthology.org/2024.findings-emnlp.665/))
+
 
 
 
