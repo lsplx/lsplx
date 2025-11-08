@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiyuan Chang"
+  name             : "Zhiyuan Chang (常志远)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "ISCAS"
   location         : "BeiJing"
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
