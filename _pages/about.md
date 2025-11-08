@@ -29,9 +29,9 @@ To date, I have published 8 papers in top conferences and journals in both softw
 [[PDF]](https://aclanthology.org/2025.findings-emnlp.1023/)
 
 - Qian Xiong, Yuekai Huang, Ziyou Jiang, `Zhiyuan Chang`, Yujia Zheng, Tianhao Li, Mingyang Li. **Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems**. In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. (<span style="color:red; font-weight:bold;">CCF-B</span>)
-[[PDF]](https://aclanthology.org/2025.findings-emnlp.907/)
+[[PDF]](https://aclanthology.org/2025.findings-emnlp.907/)  (<span style="color:red; font-weight:bold;">SAC Highlight Award</span>)
 
-- Ziyou Jiang, Mingyang Li, Guowei Yang, Junjie Wang, Yuekai Huang, `Zhiyuan Chang`, Qing Wang. **Mimicking the familiar: Dynamic command generation for information theft attacks in llm tool-learning system**. In Annual Conference of the Association for Computational Linguistics (ACL), 2025. (<span style="color:red; font-weight:bold;">CCF-A</span>)
+- Ziyou Jiang, Mingyang Li, Guowei Yang, Junjie Wang, Yuekai Huang, `Zhiyuan Chang`, Qing Wang. **Mimicking the familiar: Dynamic command generation for information theft attacks in llm tool-learning system**. In Annual Conference of the Association for Computational Linguistics (ACL), 2025. (<span style="color:red; font-weight:bold;">CCF-A</span>) 
 [[PDF]](https://aclanthology.org/2025.acl-long.672/)
 
 - `Zhiyuan Chang`, Mingyang Li, Yi Liu, Junjie Wang, Qing Wang, Yang Liu. **Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues**. In Annual Conference of the Association for Computational Linguistics (ACL), 2024. (<span style="color:red; font-weight:bold;">CCF-A</span>)
@@ -49,6 +49,7 @@ To date, I have published 8 papers in top conferences and journals in both softw
 - `Zhiyuan Chang`, Mingyang Li, Junjie Wang, Qing Wang, Shoubin Li. **Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language**. In 
 Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (<span style="color:red; font-weight:bold;">CCF-A</span>)
 [[PDF]](https://dl.acm.org/doi/10.1145/3540250.3549089)
+
 
 
 
