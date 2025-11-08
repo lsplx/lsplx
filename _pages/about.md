@@ -21,6 +21,19 @@ I am a sixth-year direct-track Ph.D. student at the Institute of Software, Chine
 
 To date, I have published 8 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). Currently, my research interests focus on LLM security (including the security of LLM agents and LLM intellectual property protection), AI model testing, and intelligent requirements engineering. I am always open to discussions and collaborations—please feel free to reach out!
 
+
+<span class='anchor' id='news'></span>
+# 🔥News
+- <span style="color:#b94a48;">[2025.08]</span> Two papers were accepted by accepted the **EMNLP 2025**!
+- <span style="color:#b94a48;">[2025.04]</span> One paper was accepted by the **ACL 2025**!
+- <span style="color:#b94a48;">[2025.04]</span> One paper was accepted by the **TOSEM**!
+-  <span style="color:#b94a48;">[2024.08]</span> One paper was accepted by the **EMNLP 2024**!
+- <span style="color:#b94a48;">[2024.04]</span> One paper was accepted by the **ACL 2024**!
+
+
+
+
+
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
@@ -29,7 +42,7 @@ To date, I have published 8 papers in top conferences and journals in both softw
 [[PDF]](https://aclanthology.org/2025.findings-emnlp.1023/)
 
 - Qian Xiong, Yuekai Huang, Ziyou Jiang, `Zhiyuan Chang`, Yujia Zheng, Tianhao Li, Mingyang Li. **Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems**. In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. (<span style="color:red; font-weight:bold;">CCF-B</span>)
-[[PDF]](https://aclanthology.org/2025.findings-emnlp.907/)  (<span style="color:red; font-weight:bold;">SAC Highlight Award</span>)🏆
+[[PDF]](https://aclanthology.org/2025.findings-emnlp.907/)  <span style="color:red; font-weight:bold;">SAC Highlight Award</span>🏆
 
 - Ziyou Jiang, Mingyang Li, Guowei Yang, Junjie Wang, Yuekai Huang, `Zhiyuan Chang`, Qing Wang. **Mimicking the familiar: Dynamic command generation for information theft attacks in llm tool-learning system**. In Annual Conference of the Association for Computational Linguistics (ACL), 2025. (<span style="color:red; font-weight:bold;">CCF-A</span>) 
 [[PDF]](https://aclanthology.org/2025.acl-long.672/)
@@ -49,6 +62,7 @@ To date, I have published 8 papers in top conferences and journals in both softw
 - `Zhiyuan Chang`, Mingyang Li, Junjie Wang, Qing Wang, Shoubin Li. **Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language**. In 
 Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (<span style="color:red; font-weight:bold;">CCF-A</span>)
 [[PDF]](https://dl.acm.org/doi/10.1145/3540250.3549089)
+
 
 
 
