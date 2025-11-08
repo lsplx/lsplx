@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Zhiyuan Chang"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -22,7 +22,7 @@ am a sixth-year direct-track Ph.D. student at the Institute of Software, Chinese
 To date, I have published 8 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). Currently, my research interests focus on LLM security (including the security of LLM agents and LLM intellectual property protection), AI model testing, and intelligent requirements engineering. I am always open to discussions and collaborations—please feel free to reach out!
   
 
-# 📝 论文
+# 📝 Publications
 
 ### 英文
 ---
@@ -84,4 +84,5 @@ To date, I have published 8 papers in top conferences and journals in both softw
 
 -	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
 [[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
+
 
