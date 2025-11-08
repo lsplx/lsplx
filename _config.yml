@@ -24,7 +24,7 @@ author:
   name             : "Zhiyuan Chang (常志远)"
   avatar           : "images/czy-512x512.png"
   bio              : "Ph.D. student at the Institute of Software, Chinese Academy of Sciences"
-  location         : "BeiJing"
+  location         : "Beijing, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DWk0W58AAAAJ"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
