@@ -4,12 +4,13 @@ main:
     url: "/lsplx/#about-me"
 
   - title: "News"
-     url: "/lsplx/#news"
+    url: "/lsplx/#news"
 
   - title: "Publications"
     url: "/lsplx/#publications"
 
   
+
 
 
 
