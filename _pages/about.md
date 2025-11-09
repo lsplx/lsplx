@@ -26,11 +26,11 @@ I am always open to discussions and collaborations—please feel free to reach o
 
 <span class='anchor' id='news'></span>
 # 🔥News
-- <span style="color:#b94a48;">[2025.08]</span> Two papers were accepted by accepted the **EMNLP 2025**!
-- <span style="color:#b94a48;">[2025.04]</span> One paper was accepted by the **ACL 2025**!
-- <span style="color:#b94a48;">[2025.04]</span> One paper was accepted by the **TOSEM**!
--  <span style="color:#b94a48;">[2024.08]</span> One paper was accepted by the **EMNLP 2024**!
-- <span style="color:#b94a48;">[2024.04]</span> One paper was accepted by the **ACL 2024**!
+- <span style="color:#b94a48;">[2025.08]</span> 🎉🎉 Two papers were accepted by accepted the **EMNLP 2025**!
+- <span style="color:#b94a48;">[2025.04]</span> 🎉🎉 One paper was accepted by the **ACL 2025**!
+- <span style="color:#b94a48;">[2025.04]</span> 🎉🎉 One paper was accepted by the **TOSEM**!
+-  <span style="color:#b94a48;">[2024.08]</span> 🎉🎉 One paper was accepted by the **EMNLP 2024**!
+- <span style="color:#b94a48;">[2024.04]</span> 🎉🎉 One paper was accepted by the **ACL 2024**!
 
 
 
@@ -64,6 +64,7 @@ I am always open to discussions and collaborations—please feel free to reach o
 - `Zhiyuan Chang`, Mingyang Li, Junjie Wang, Qing Wang, Shoubin Li. **Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language**. In 
 Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (<span style="color:red; font-weight:bold;">CCF-A</span>)
 [[PDF]](https://dl.acm.org/doi/10.1145/3540250.3549089)
+
 
 
 
