@@ -3,13 +3,14 @@ main:
   - title: "About me"
     url: "/lsplx/#about-me"
 
- # - title: "News"
- #    url: "/lsplx/#news"
+  - title: "News"
+     url: "/lsplx/#news"
 
   - title: "Publications"
     url: "/lsplx/#publications"
 
   
+
 
 
 
