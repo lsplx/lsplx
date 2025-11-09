@@ -19,7 +19,9 @@ redirect_from:
 
 I am a sixth-year direct-track Ph.D. student at the Institute of Software, Chinese Academy of Sciences, affiliated with the Key Laboratory of Intelligent Game. I am fortunate to be advised by [Prof. Qing Wang](https://people.ucas.ac.cn/~wangqing) during my doctoral studies. Previously, I was a visiting student at the School of Computer Science and Engineering, Nanyang Technological University (NTU), supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
-To date, I have published 8 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). Currently, my research interests focus on LLM security (including the security of LLM agents and LLM intellectual property protection), AI model testing, and intelligent requirements engineering. I am always open to discussions and collaborations—please feel free to reach out!
+To date, I have published 8 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). 
+Currently, my research interests focus on LLM security, AI model testing, and intelligent requirements engineering. 
+I am always open to discussions and collaborations—please feel free to reach out!
 
 
 <span class='anchor' id='news'></span>
@@ -62,6 +64,7 @@ To date, I have published 8 papers in top conferences and journals in both softw
 - `Zhiyuan Chang`, Mingyang Li, Junjie Wang, Qing Wang, Shoubin Li. **Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language**. In 
 Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (<span style="color:red; font-weight:bold;">CCF-A</span>)
 [[PDF]](https://dl.acm.org/doi/10.1145/3540250.3549089)
+
 
 
 
