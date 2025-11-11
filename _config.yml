@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Chang (常志远)"
   avatar           : "images/czy-512x512.png"
-  bio              : "Ph.D. student at the Institute of Software, Chinese Academy of Sciences"
+  bio              : "Ph.D. student at the Institute of Software, Chinese Academy of Sciences (ISCAS)"
   location         : "Beijing, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
