@@ -19,7 +19,7 @@ redirect_from:
 
 I am a sixth-year direct-track Ph.D. student at the Institute of Software, Chinese Academy of Sciences, affiliated with the Key Laboratory of Intelligent Game. I am fortunate to be advised by [Assoc. Research Fellow Mingyang Li](https://people.ucas.ac.cn/~mingyang) and [Research Fellow Qing Wang](https://people.ucas.ac.cn/~wangqing)  during my doctoral studies. Previously, I was a visiting student at the School of Computer Science and Engineering, Nanyang Technological University (NTU), supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
-To date, I have published 8 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). 
+To date, I have published 10 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). 
 Currently, my research interests focus on LLM security（especially in the areas of LLM agents and RAG), AI model testing, and intelligent requirements engineering. 
 I am always open to discussions and collaborations—please feel free to reach out!
 
@@ -39,7 +39,12 @@ I am always open to discussions and collaborations—please feel free to reach o
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
+- `Zhiyuan Chang`, Mingyang Li, Yuekai Huang, Ziyou Jiang, Xiaojun Jia, Qian Xiong, Junjie Wang, Zhaoyang Li, Qing Wang. **Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse
+Data Synthesis and Instruction-Level Chain-of-Thought Learning**. In Annual Conference of the Association for Computational Linguistics (ACL), 2026. (<span style="color:red; font-weight:bold;">CCF-A</span>)
+[[PDF]](https://arxiv.org/pdf/2601.04666)
 
+- Ziyou Jiang, Mingyang Li, Junjie Wang, Yuekai Huang, Jie Huang, `Zhiyuan Chang`, Zhaoyang Li, Qing Wang. **All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction**. In Annual Conference of the Association for Computational Linguistics (ACL), 2026. (<span style="color:red; font-weight:bold;">CCF-A</span>)
+[[PDF]](https://arxiv.org/pdf/2601.04567)
 
 - `Zhiyuan Chang`, Mingyang Li, Xiaojun Jia, Junjie Wang, Yuekai Huang, Qing Wang, Ziyou Jiang, Yang Liu. **One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems**. In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. (<span style="color:red; font-weight:bold;">CCF-B</span>)
 [[PDF]](https://aclanthology.org/2025.findings-emnlp.1023/)
