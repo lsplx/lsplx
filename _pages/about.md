@@ -26,6 +26,7 @@ I am always open to discussions and collaborations—please feel free to reach o
 
 <span class='anchor' id='news'></span>
 # 🔥News
+- <span style="color:#b94a48;">[2026.04]</span> 🎉🎉 Two papers were accepted by accepted the **ACL 2026**!
 - <span style="color:#b94a48;">[2025.08]</span> 🎉🎉 Two papers were accepted by accepted the **EMNLP 2025**!
 - <span style="color:#b94a48;">[2025.04]</span> 🎉🎉 One paper was accepted by the **ACL 2025**!
 - <span style="color:#b94a48;">[2025.04]</span> 🎉🎉 One paper was accepted by the **TOSEM**!
