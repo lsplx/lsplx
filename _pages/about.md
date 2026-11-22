@@ -19,7 +19,7 @@ redirect_from:
 
 I am part of the **AI Safety and Governance** team at [Ant Group](https://www.antgroup.com/en/home) and was selected for its **Plan A talent program (蚂蚁星 Plan A)**. I lead research on **multi-agent security** and **runtime safety for long-horizon AI agents**. I also work on the broader security of large language models (LLMs).
 
-I conducted my doctoral research at the Institute of Software, Chinese Academy of Sciences (ISCAS), in the Key Laboratory of Intelligent Game, advised by [Assoc. Research Fellow Mingyang Li](https://people.ucas.ac.cn/~mingyang) and [Research Fellow Qing Wang](https://people.ucas.ac.cn/~wangqing). During my Ph.D., I also received research guidance from [Research Scientist Junjie Wang](https://junjiewangiscas.github.io/). I was a visiting student at Nanyang Technological University (NTU), supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+I conducted my doctoral research at the Institute of Software, Chinese Academy of Sciences (ISCAS), in the Key Laboratory of Intelligent Game, advised by [Assoc. Research Fellow Mingyang Li](https://people.ucas.ac.cn/~mingyang), [Research Fellow Junjie Wang](https://junjiewangiscas.github.io/), and [Research Fellow Qing Wang](https://people.ucas.ac.cn/~wangqing). I was a visiting student at Nanyang Technological University (NTU), supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
 I am always open to discussions and collaborations. Please feel free to reach out!
 
