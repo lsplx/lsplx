@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a sixth-year direct-track Ph.D. student at the Institute of Software, Chinese Academy of Sciences, affiliated with the Key Laboratory of Intelligent Game. I am fortunate to be advised by [Assoc. Research Fellow Mingyang Li](https://people.ucas.ac.cn/~mingyang) and [Research Fellow Qing Wang](https://people.ucas.ac.cn/~wangqing)  during my doctoral studies. Previously, I was a visiting student at the School of Computer Science and Engineering, Nanyang Technological University (NTU), supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+I work at [Ant Group](https://www.antgroup.com/en/home), where I lead research on **multi-agent security** and **runtime safety for long-horizon AI agents**. I also work on the broader security of large language models (LLMs).
 
-To date, I have published 10 papers in top conferences and journals in both software engineering (ICSE, FSE, TOSEM) and natural language processing (ACL, EMNLP). 
-Currently, my research interests focus on LLM security（especially in the areas of LLM agents and RAG), AI model testing, and intelligent requirements engineering. 
-I am always open to discussions and collaborations—please feel free to reach out!
+I conducted my doctoral research at the Institute of Software, Chinese Academy of Sciences (ISCAS), in the Key Laboratory of Intelligent Game, advised by [Assoc. Research Fellow Mingyang Li](https://people.ucas.ac.cn/~mingyang) and [Research Fellow Qing Wang](https://people.ucas.ac.cn/~wangqing). I was also a visiting student at Nanyang Technological University (NTU), supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+
+I am always open to discussions and collaborations. Please feel free to reach out!
 
 
 <span class='anchor' id='news'></span>
 # 🔥News
+- <span style="color:#b94a48;">[2026.10]</span> Our preprint [Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems](https://arxiv.org/abs/2610.15529) is available on arXiv.
 - <span style="color:#b94a48;">[2026.04]</span> 🎉🎉 Two papers were accepted by accepted the **ACL 2026**!
 - <span style="color:#b94a48;">[2025.08]</span> 🎉🎉 Two papers were accepted by accepted the **EMNLP 2025**!
 - <span style="color:#b94a48;">[2025.04]</span> 🎉🎉 One paper was accepted by the **ACL 2025**!
@@ -39,6 +40,9 @@ I am always open to discussions and collaborations—please feel free to reach o
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
+- Xiuming Liu, Le Gai, `Zhiyuan Chang` (corresponding author), Peiyang Li, Bin Zhu, Shuo Wang, Chao Feng. **Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems**. arXiv preprint, 2026.
+[[arXiv]](https://arxiv.org/abs/2610.15529) [[PDF]](https://arxiv.org/pdf/2610.15529)
+
 - `Zhiyuan Chang`, Mingyang Li, Yuekai Huang, Ziyou Jiang, Xiaojun Jia, Qian Xiong, Junjie Wang, Zhaoyang Li, Qing Wang. **Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse
 Data Synthesis and Instruction-Level Chain-of-Thought Learning**. In Annual Conference of the Association for Computational Linguistics (ACL), 2026. (<span style="color:red; font-weight:bold;">CCF-A</span>)
 [[PDF]](https://arxiv.org/pdf/2601.04666)

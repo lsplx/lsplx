@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Chang (常志远)"
   avatar           : "images/czy-512x512.png"
-  bio              : "Ph.D. student at the Institute of Software, Chinese Academy of Sciences (ISCAS)"
+  bio              : "AI agent safety and security research"
   location         : "Beijing, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : "Ant Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DWk0W58AAAAJ"
   email            : "zhiyuan2019@iscas.ac.cn"
