@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Chang (常志远)"
   avatar           : "images/czy-512x512.png"
-  bio              : "AI agent safety and security research"
+  bio              : "AI Safety and Governance"
   location         : "Beijing, China"
   employer         : "Ant Group"
   pubmed           : 
