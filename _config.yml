@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Chang (常志远)"
   avatar           : "images/zhiyuan-chang-portrait.jpg"
-  bio              : "AI Safety and Governance"
+  bio              : "Ant Group"
   location         : "Beijing, China"
-  employer         : "Ant Group"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DWk0W58AAAAJ"
   email            : "zhiyuan2019@iscas.ac.cn"
